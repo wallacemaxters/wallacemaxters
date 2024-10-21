@@ -4,7 +4,7 @@
 <hr>
 
 - 💻 Techs: PHP, Laravel, Python, Vue, React.js, Node.js.
-- 🔭 Trabalho como desenvolvedor na TGL Inova
+- 🔭 Trabalho como desenvolvedor na Search and Stay
 - Site: https://wallacemaxters.com.br
 
 <div align="center">
